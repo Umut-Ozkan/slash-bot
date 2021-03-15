@@ -1,5 +1,5 @@
 ![Serendia Squad](https://cdn.discordapp.com/attachments/691691230106615901/776849806567538748/standard_11.gif)
-Sunucuya Katıl: https://discord.gg/zFUkqmSa99
+### Sunucuya Katıl: https://discord.gg/zFUkqmSa99
 ### Bota yetki nasıl verilir?
 
 * Yetki vermek için [Discord Developers](https://discord.com/developers/applications) sayfasına giriyoruz.
