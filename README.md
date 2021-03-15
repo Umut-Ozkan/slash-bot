@@ -1,3 +1,5 @@
+![Serendia Squad](https://cdn.discordapp.com/attachments/691691230106615901/776849806567538748/standard_11.gif)
+Sunucuya Katıl: https://discord.gg/zFUkqmSa99
 ### Bota yetki nasıl verilir?
 
 * Yetki vermek için [Discord Developers](https://discord.com/developers/applications) sayfasına giriyoruz.
@@ -12,5 +14,4 @@ Ve artık botumuz yetkilendirildi. Artık komutlarımızı oluşturabiliriz.
 #### Ek notlar;
 
 * Eğer botunuz çalışmazsa ve hata verirse dert etmeyin çünkü bu daha yeni gelmiş bir özellik ve tam çalışmayan bir özellik.
-* Bu bilgilerin hepsini internetten araştırdım daha fazla bilgi istiyorsanız [buradan](https://discord.com/developers/docs/interactions/slash-commands) ve ya internette araştırarak bulabilirsiniz.
 * V12 için geçerlidir v11'de çalışmamaktadır.
