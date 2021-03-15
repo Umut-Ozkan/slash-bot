@@ -1,3 +1,4 @@
+// Serendia Squad: https://discord.gg/zFUkqmSa99
 const Discord = require('discord.js');
 const client = new Discord.Client();
 require("express")().listen(3000)
